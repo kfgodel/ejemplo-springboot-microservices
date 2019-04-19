@@ -1,0 +1,3 @@
+# Config for the eureka server
+server:
+  port: 8761 #the default port used for eureka servers
